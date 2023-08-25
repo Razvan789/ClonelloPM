@@ -1,5 +1,11 @@
 This is the term project for CSCI 4370/6370 DBMS, Summer 2023
+
 Group Members: Razavan Beldeanu, Afsaneh Shams, Isabella Humphrey, and Chris Evans
+
+# Video Showcase
+[![Showcase Video](https://img.youtube.com/vi/WIqOLOloxZE/0.jpg)](https://www.youtube.com/watch?v=WIqOLOloxZE)
+
+
 
 
 Before you can do this, you must install node.js and make sure it is added to your PATH (Google how to do this if confused)
